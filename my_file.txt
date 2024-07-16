@@ -1,0 +1,6 @@
+Line 1: Hello, World!
+Line 2: This is PLP Python.
+Line 3: 1234567890
+Line 4: Appending new content.
+Line 5: This line was added.
+Line 6: This is line 2 appending.
